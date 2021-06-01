@@ -1,0 +1,1 @@
+# fazt-node-sequelize
